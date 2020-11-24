@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG9032
   title: བྱ་བ་ཀུན་ལས་བཏུས་པ།
-  volume: ''
+  volume:
+    a89c3d62e1bf4011bf28f7bb208486a6:
+      image_group_id: I1KG9056
+      title: Volume 1 of bya ba kun las btus pa/
+      volume_number: 1
+      total_pages: 418
   author: ''
+ebook_metadata:
+  title: བྱ་བ་ཀུན་ལས་བཏུས་པ།
+  author: ''
+  sku: P007000
+  cover: cover.jpg
+  layers:
+  - pagination
